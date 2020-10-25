@@ -4,7 +4,7 @@
 - This series is divided into different topics per week.
 
 ## Week1:
-[reverse_the_array](https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/)
-[find_max_min](https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/)
-[kth_max_min](https://practice.geeksforgeeks.org/problems/kth-smallest-element/0)
-[sort_Array_withOut_sortingAlgo](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s/0)
+1. [reverse_the_array](https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/)
+2. [find_max_min](https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/)
+3. [kth_max_min](https://practice.geeksforgeeks.org/problems/kth-smallest-element/0)
+4. [sort_Array_withOut_sortingAlgo](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s/0)
