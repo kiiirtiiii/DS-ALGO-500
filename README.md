@@ -11,4 +11,5 @@
 5. [all_neg_to_one_side](https://www.geeksforgeeks.org/move-negative-numbers-beginning-positive-end-constant-extra-space/)
 6. [union](https://practice.geeksforgeeks.org/problems/union-of-two-arrays/0)
 7. [rotatedArray](https://practice.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one/0)
-8. [find Largest sum contiguous Subarray (Kadane's Algo)](https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0) ### V.Imp
+8. [find Largest sum contiguous Subarray (Kadane's Algo)](https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0) # V.imp
+9. [duplicacy_in_O(n)](https://leetcode.com/problems/find-the-duplicate-number/)
