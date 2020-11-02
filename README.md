@@ -15,3 +15,4 @@
 9. [duplicacy_in_O(n)](https://leetcode.com/problems/find-the-duplicate-number/)
 10. [merge_intervals](https://leetcode.com/problems/merge-intervals/)
 11. [bestTime_to_sellAndBuy](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+12. [commonElements_in_sortedArrays](https://practice.geeksforgeeks.org/problems/common-elements1132/1)
