@@ -25,3 +25,4 @@
 5. [find_kthElement](https://practice.geeksforgeeks.org/problems/kth-element-in-matrix/1)
 6. [commonElements](https://www.geeksforgeeks.org/common-elements-in-all-rows-of-a-given-matrix/)
 7. [rotateTheMatrix](https://www.geeksforgeeks.org/rotate-a-matrix-by-90-degree-in-clockwise-direction-without-using-any-extra-space/)
+8. [spiralMatrix](https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix/0)
