@@ -23,3 +23,4 @@
 3. [rowWithMaxOne](https://practice.geeksforgeeks.org/problems/row-with-max-1s0023/1)
 4. [sortedMatrix](https://practice.geeksforgeeks.org/problems/sorted-matrix/0)
 5. [find_kthElement](https://practice.geeksforgeeks.org/problems/kth-element-in-matrix/1)
+6. [commonElements](https://www.geeksforgeeks.org/common-elements-in-all-rows-of-a-given-matrix/)
