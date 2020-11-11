@@ -26,3 +26,7 @@
 6. [commonElements](https://www.geeksforgeeks.org/common-elements-in-all-rows-of-a-given-matrix/)
 7. [rotateTheMatrix](https://www.geeksforgeeks.org/rotate-a-matrix-by-90-degree-in-clockwise-direction-without-using-any-extra-space/)
 8. [spiralMatrix](https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix/0)
+
+## Week3:
+1. [reverseString](https://leetcode.com/problems/reverse-string/)
+2. [palindrome](https://practice.geeksforgeeks.org/problems/palindrome-string0817/1)
