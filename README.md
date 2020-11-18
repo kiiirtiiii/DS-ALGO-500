@@ -32,3 +32,4 @@
 2. [palindrome](https://practice.geeksforgeeks.org/problems/palindrome-string0817/1)
 3. [isomorphicStrings](https://practice.geeksforgeeks.org/problems/isomorphic-strings-1587115620/1)
 4. [countAndSay](https://leetcode.com/problems/count-and-say/submissions/)
+5. [longestPalindromeString](https://practice.geeksforgeeks.org/problems/longest-palindrome-in-a-string/0#)
